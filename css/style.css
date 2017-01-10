@@ -1,0 +1,30 @@
+/*Recet*/
+a,body,dd,div,dl,dt,h1,h2,h3,h4,html,img,li,ol,p,span,table,td,th,tr,ul{margin:0;padding:0;border:0;font-weight:400;font-size:100%;vertical-align:baseline;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}article,aside,figcaption,figure,footer,header,nav,section{display:block}body{line-height:1;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}ol,ul{list-style:none}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 200px 0px 30px;
+}
+
+#wrapper {
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a {
+    color: #808080;
+    text-decoration: none;
+}
+
+#wrapper p a:hover {
+    color: #0066FF;
+}
+
+.profile-list p {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
