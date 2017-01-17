@@ -1,11 +1,15 @@
 /*Recet*/
 a,body,dd,div,dl,dt,h1,h2,h3,h4,html,img,li,ol,p,span,table,td,th,tr,ul{margin:0;padding:0;border:0;font-weight:400;font-size:100%;vertical-align:baseline;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}article,aside,figcaption,figure,footer,header,nav,section{display:block}body{line-height:1;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}ol,ul{list-style:none}
 
-h1 {
+body {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 50px;
+}
+
+h1 {
+    font-size: 40px;
     font-weight: bold;
-    padding: 200px 0px 30px;
+    letter-spacing: 5px;
+    padding: 150px 0px 30px;
 }
 
 #wrapper {
@@ -15,16 +19,17 @@ h1 {
 }
 
 a {
+    font-weight: bold;
     color: #808080;
     text-decoration: none;
 }
 
 #wrapper p a:hover {
-    color: #0066FF;
+    color: #F00;
 }
 
 .profile-list p {
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 3px;
     padding-bottom: 15px;
 }
