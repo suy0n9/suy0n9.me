@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Suyong Goto</title>
+    <title>Suyong Gotoh</title>
     <link>https://suy0n9.me/</link>
-    <description>Recent content on Suyong Goto</description>
+    <description>Recent content on Suyong Gotoh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    
-	<atom:link href="https://suy0n9.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ja-jp</language><atom:link href="https://suy0n9.me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
